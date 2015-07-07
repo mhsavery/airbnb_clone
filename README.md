@@ -1,2 +1,2 @@
 # airbnb_clone
-Replica of an old version of the airbnb website
+Replica of an old version of the airbnb website using bootstrap
